@@ -165,4 +165,4 @@ PyPDF2==3.0.1
 python-dotenv==1.0.1
 streamlit==1.32.2
 langchain-community==0.0.28
-
+sentence-transformers==2.5.1
