@@ -25,7 +25,7 @@ css = '''
 }
 
 .css-1aehpvj{
-    color: white;
+    display:none;
 }
 
 
